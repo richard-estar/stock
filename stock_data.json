@@ -1,0 +1,21 @@
+{
+    "Stock": [
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft ",
+            "shares": 514.0,
+            "DataList": [
+                {
+                    "date": "8/28/20",
+                    "close": 47.85,
+                    "volume": 10550.0
+                },
+                {
+                    "date": "8/29/20",
+                    "close": 87.85,
+                    "volume": 14570.0
+                }
+            ]
+        }
+    ]
+}
